@@ -3,7 +3,7 @@
     display: none;
 }
 
-div[div id = "tag-2"] {
+div[div= "tag-2"] {
   display:none;
 }
 
